@@ -1,0 +1,34 @@
+[
+    {
+        "Job": "saya mau pergi ke pasar",
+        "complete": true
+    },
+    {
+        "Job": "saya akan memasak",
+        "complete": true
+    },
+    {
+        "Job": "saya mau makan",
+        "complete": false
+    },
+    {
+        "Job": "saya mau minum",
+        "complete": false
+    },
+    {
+        "Job": "saya akan belajar",
+        "complete": false
+    },
+    {
+        "Job": "saya membaca",
+        "complete": false
+    },
+    {
+        "Job": "saya akan belajar Fisika",
+        "complete": false
+    },
+    {
+        "Job": "saya mau ngecat",
+        "complete": false
+    }
+]
